@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map M.81d on Mon Dec 21 08:33:33 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clkIn" LOCATE = SITE "B8" LEVEL 1;
+COMP "dataENIn" LOCATE = SITE "N3" LEVEL 1;
+COMP "Gout<0>" LOCATE = SITE "F14" LEVEL 1;
+COMP "Gout<1>" LOCATE = SITE "G13" LEVEL 1;
+COMP "Gout<2>" LOCATE = SITE "G14" LEVEL 1;
+COMP "resetDispInTop" LOCATE = SITE "L3" LEVEL 1;
+COMP "holdIn" LOCATE = SITE "E2" LEVEL 1;
+COMP "HSout" LOCATE = SITE "J14" LEVEL 1;
+COMP "resetOut" LOCATE = SITE "M5" LEVEL 1;
+COMP "VSout" LOCATE = SITE "K13" LEVEL 1;
+COMP "Bout<1>" LOCATE = SITE "H13" LEVEL 1;
+COMP "Bout<2>" LOCATE = SITE "J13" LEVEL 1;
+COMP "Rout<0>" LOCATE = SITE "C14" LEVEL 1;
+COMP "Rout<1>" LOCATE = SITE "D13" LEVEL 1;
+COMP "Rout<2>" LOCATE = SITE "F13" LEVEL 1;
+COMP "buttonInTop<0>" LOCATE = SITE "G12" LEVEL 1;
+COMP "buttonInTop<1>" LOCATE = SITE "C11" LEVEL 1;
+COMP "buttonInTop<2>" LOCATE = SITE "M4" LEVEL 1;
+COMP "buttonInTop<3>" LOCATE = SITE "A7" LEVEL 1;
+NET "clkIn_BUFGP/IBUFG" BEL "clkIn_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

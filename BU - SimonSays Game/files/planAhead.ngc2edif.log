@@ -1,0 +1,76 @@
+Release 12.4 - ngc2edif M.81d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+Reading design SimonTop.ngc ...
+WARNING:NetListWriters:298 - No output is written to SimonTop.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus
+   Inst_DisplaySeqStage/Inst_DisplaySequence/toVGADisplay<5 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_EndGameStage/Inst_gameOver/toVGAEnd<2 : 0> on block SimonTop is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_UserInputStage/Inst_UserButtonInterface/colorOut<5 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_UserInputStage/Inst_UserButtonInterface/colorOut_mux0004<3 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Mcompar_ColorOutput_cmp_lt0000_lut<6 : 1> on block SimonTop
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Mcompar_HS_cmp_lt0000_lut<4 : 0> on block SimonTop is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Msub_ScanlineY_addsub0001_lut<10 : 2> on block SimonTop is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Inst_VGA_Driver/ScanlineX<9 : 0> on
+   block SimonTop is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Inst_VGA_Driver/ScanlineY<10 : 0> on
+   block SimonTop is not reconstructed, because there are some missing bus
+   signals.
+  finished :Prep
+Writing EDIF netlist file SimonTop.edif ...
+ngc2edif: Total memory usage is 72368 kilobytes
+
+Release 12.4 - ngc2edif M.81d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+Reading design SimonTop.ngc ...
+WARNING:NetListWriters:298 - No output is written to SimonTop.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus
+   Inst_DisplaySeqStage/Inst_DisplaySequence/toVGADisplay<5 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_EndGameStage/Inst_gameOver/toVGAEnd<2 : 0> on block SimonTop is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_UserInputStage/Inst_UserButtonInterface/colorOut<5 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_UserInputStage/Inst_UserButtonInterface/colorOut_mux0004<3 : 0> on block
+   SimonTop is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Mcompar_ColorOutput_cmp_lt0000_lut<6 : 1> on block SimonTop
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Mcompar_HS_cmp_lt0000_lut<4 : 0> on block SimonTop is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Inst_VGA_Driver/Msub_ScanlineY_addsub0001_lut<10 : 2> on block SimonTop is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Inst_VGA_Driver/ScanlineX<9 : 0> on
+   block SimonTop is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Inst_VGA_Driver/ScanlineY<10 : 0> on
+   block SimonTop is not reconstructed, because there are some missing bus
+   signals.
+  finished :Prep
+Writing EDIF netlist file SimonTop.edif ...
+ngc2edif: Total memory usage is 72048 kilobytes
+

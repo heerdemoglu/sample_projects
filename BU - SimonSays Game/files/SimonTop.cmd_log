@@ -1,0 +1,64 @@
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+xst -intstyle ise -ifn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.xst" -ofn "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc SimonTop.ucf -p xc3s100e-cp132-5 "SimonTop.ngc" SimonTop.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o SimonTop_map.ncd SimonTop.ngd SimonTop.pcf 
+par -w -intstyle ise -ol high -t 1 SimonTop_map.ncd SimonTop.ncd SimonTop.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml SimonTop.twx SimonTop.ncd -o SimonTop.twr SimonTop.pcf -ucf SimonTop.ucf 
+bitgen -intstyle ise -f SimonTop.ut SimonTop.ncd 

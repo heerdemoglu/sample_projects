@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="SimonSaysV8.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="SimonTop.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="SimonTop.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="SimonTop.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="SimonTop.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="SimonTop.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="SimonTop.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="SimonTop.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="SimonTop.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="SimonTop.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="SimonTop.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SimonTop.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="SimonTop.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="SimonTop.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="SimonTop.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="SimonTop.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="SimonTop.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="SimonTop.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="SimonTop.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="SimonTop.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="SimonTop.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="SimonTop_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="SimonTop_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="SimonTop_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="SimonTop_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="SimonTop_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="SimonTop_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SimonTop_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SimonTop_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="SimonTop_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="SimonTop_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SimonTop_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="SimonTop_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="SimonTop_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="SimonTop_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SimonTop_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SimonTop_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="UserInputStage_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="UserInputStage_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="gameOver.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="gameOver.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="gameOver.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="gameOver.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="gameOver.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="gameOver.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="gameOver.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="gameOver.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="gameOver.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="gameOver.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="gameOver.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="gameOver.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="gameOver.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="gameOver.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="gameOver.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="gameOver.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="gameOver.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="gameOver_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="gameOver_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="gameOver_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="gameOver_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="gameOver_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="gameOver_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="gameOver_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="gameOver_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="gameOver_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="gameOver_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="gameOver_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="gameover.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="gameover.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="gameover.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="simontop.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="simontop.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="simontop.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1450639081" xil_pn:in_ck="-3472352357064915360" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1450639081">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ClkDisplayTest.vhd"/>
+      <outfile xil_pn:name="CombinerTest.vhd"/>
+      <outfile xil_pn:name="Comparator.vhd"/>
+      <outfile xil_pn:name="ComparatorTest.vhd"/>
+      <outfile xil_pn:name="DisplayCounter.vhd"/>
+      <outfile xil_pn:name="DisplaySeqStage.vhd"/>
+      <outfile xil_pn:name="DisplaySeqStageTest.vhd"/>
+      <outfile xil_pn:name="DisplaySeqTest.vhd"/>
+      <outfile xil_pn:name="DisplaySequence.vhd"/>
+      <outfile xil_pn:name="EndGameStage.vhd"/>
+      <outfile xil_pn:name="GameOverFSMTest.vhd"/>
+      <outfile xil_pn:name="GameOverStateTest.vhd"/>
+      <outfile xil_pn:name="SRTest.vhd"/>
+      <outfile xil_pn:name="SequenceCombinerTest.vhd"/>
+      <outfile xil_pn:name="SequencerTest.vhd"/>
+      <outfile xil_pn:name="ShiftRegister.vhd"/>
+      <outfile xil_pn:name="SimonTop.vhd"/>
+      <outfile xil_pn:name="TopTest.vhd"/>
+      <outfile xil_pn:name="UserButtonInterface.vhd"/>
+      <outfile xil_pn:name="UserButtonsTest.vhd"/>
+      <outfile xil_pn:name="UserInputStage.vhd"/>
+      <outfile xil_pn:name="UserSequenceCombiner.vhd"/>
+      <outfile xil_pn:name="VGADriver.vhd"/>
+      <outfile xil_pn:name="buttonInterfaceClock.vhd"/>
+      <outfile xil_pn:name="gameOver.vhd"/>
+      <outfile xil_pn:name="sequencer.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1450639081" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-22905853885170615" xil_pn:start_ts="1450639081">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450639081" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2451721688215252341" xil_pn:start_ts="1450639081">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450635974" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-4454472417147124440" xil_pn:start_ts="1450635974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450639081" xil_pn:in_ck="-3472352357064915360" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1450639081">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ClkDisplayTest.vhd"/>
+      <outfile xil_pn:name="CombinerTest.vhd"/>
+      <outfile xil_pn:name="Comparator.vhd"/>
+      <outfile xil_pn:name="ComparatorTest.vhd"/>
+      <outfile xil_pn:name="DisplayCounter.vhd"/>
+      <outfile xil_pn:name="DisplaySeqStage.vhd"/>
+      <outfile xil_pn:name="DisplaySeqStageTest.vhd"/>
+      <outfile xil_pn:name="DisplaySeqTest.vhd"/>
+      <outfile xil_pn:name="DisplaySequence.vhd"/>
+      <outfile xil_pn:name="EndGameStage.vhd"/>
+      <outfile xil_pn:name="GameOverFSMTest.vhd"/>
+      <outfile xil_pn:name="GameOverStateTest.vhd"/>
+      <outfile xil_pn:name="SRTest.vhd"/>
+      <outfile xil_pn:name="SequenceCombinerTest.vhd"/>
+      <outfile xil_pn:name="SequencerTest.vhd"/>
+      <outfile xil_pn:name="ShiftRegister.vhd"/>
+      <outfile xil_pn:name="SimonTop.vhd"/>
+      <outfile xil_pn:name="TopTest.vhd"/>
+      <outfile xil_pn:name="UserButtonInterface.vhd"/>
+      <outfile xil_pn:name="UserButtonsTest.vhd"/>
+      <outfile xil_pn:name="UserInputStage.vhd"/>
+      <outfile xil_pn:name="UserSequenceCombiner.vhd"/>
+      <outfile xil_pn:name="VGADriver.vhd"/>
+      <outfile xil_pn:name="buttonInterfaceClock.vhd"/>
+      <outfile xil_pn:name="gameOver.vhd"/>
+      <outfile xil_pn:name="sequencer.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1450639082" xil_pn:in_ck="-3472352357064915360" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="7328142709528723092" xil_pn:start_ts="1450639081">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+    </transform>
+    <transform xil_pn:end_ts="1450635975" xil_pn:in_ck="-3530365681001552110" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3192293044016920338" xil_pn:start_ts="1450635975">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <outfile xil_pn:name="UserInputStage_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3391695283548588322" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4454472417147124440" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="7952642382406128668" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280822507185" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642499" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="4042160868369542066" xil_pn:start_ts="1450642499">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450642553" xil_pn:in_ck="1637334416664279115" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="7678620239084545913" xil_pn:start_ts="1450642548">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="SimonTop.lso"/>
+      <outfile xil_pn:name="SimonTop.ngc"/>
+      <outfile xil_pn:name="SimonTop.ngr"/>
+      <outfile xil_pn:name="SimonTop.prj"/>
+      <outfile xil_pn:name="SimonTop.stx"/>
+      <outfile xil_pn:name="SimonTop.syr"/>
+      <outfile xil_pn:name="SimonTop.xst"/>
+      <outfile xil_pn:name="SimonTop_vhdl.prj"/>
+      <outfile xil_pn:name="SimonTop_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="gameOver.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679608" xil_pn:in_ck="4361030398239203109" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4570434159474318545" xil_pn:start_ts="1450679608">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679611" xil_pn:in_ck="3803146832889654272" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="6317248961323552469" xil_pn:start_ts="1450679608">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SimonTop.bld"/>
+      <outfile xil_pn:name="SimonTop.ngd"/>
+      <outfile xil_pn:name="SimonTop_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679613" xil_pn:in_ck="8879182448842407682" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="3236488012892527759" xil_pn:start_ts="1450679611">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="SimonTop.pcf"/>
+      <outfile xil_pn:name="SimonTop_map.map"/>
+      <outfile xil_pn:name="SimonTop_map.mrp"/>
+      <outfile xil_pn:name="SimonTop_map.ncd"/>
+      <outfile xil_pn:name="SimonTop_map.ngm"/>
+      <outfile xil_pn:name="SimonTop_map.xrpt"/>
+      <outfile xil_pn:name="SimonTop_summary.xml"/>
+      <outfile xil_pn:name="SimonTop_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679625" xil_pn:in_ck="283065378685889076" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="1934304854298957634" xil_pn:start_ts="1450679613">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SimonTop.ncd"/>
+      <outfile xil_pn:name="SimonTop.pad"/>
+      <outfile xil_pn:name="SimonTop.par"/>
+      <outfile xil_pn:name="SimonTop.ptwx"/>
+      <outfile xil_pn:name="SimonTop.unroutes"/>
+      <outfile xil_pn:name="SimonTop.xpi"/>
+      <outfile xil_pn:name="SimonTop_pad.csv"/>
+      <outfile xil_pn:name="SimonTop_pad.txt"/>
+      <outfile xil_pn:name="SimonTop_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679633" xil_pn:in_ck="-4065602243010066091" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1450679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SimonTop.ut"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="simontop.bgn"/>
+      <outfile xil_pn:name="simontop.bit"/>
+      <outfile xil_pn:name="simontop.drc"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1450679624" xil_pn:in_ck="2925267796622815738" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1450679623">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SimonTop.twr"/>
+      <outfile xil_pn:name="SimonTop.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

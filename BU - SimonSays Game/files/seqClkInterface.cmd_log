@@ -1,0 +1,1 @@
+vhdtdtfi -prj SimonSaysV8 -o "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/seqClkInterface.vhi" -lib work "C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8//seqClkInterface.vhd" -module seqClkInterface -template C:/Xilinx/12.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 
