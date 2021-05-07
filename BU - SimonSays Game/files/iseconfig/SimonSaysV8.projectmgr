@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="SimonSaysV8" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ClkDisplayTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|ClkDisplayTest.vhd</ClosedNode>
+         <ClosedNode>/ComparatorTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|ComparatorTest.vhd</ClosedNode>
+         <ClosedNode>/DisplaySeqStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqStage.vhd</ClosedNode>
+         <ClosedNode>/DisplaySeqStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqStage.vhd/Inst_DisplaySequence - DisplaySequence - Behavioral</ClosedNode>
+         <ClosedNode>/EndGameStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|EndGameStage.vhd</ClosedNode>
+         <ClosedNode>/SequencerTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SequencerTest.vhd/uut - sequencer - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_DisplaySeqStage - DisplaySeqStage - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_DisplaySeqStage - DisplaySeqStage - Behavioral/Inst_DisplaySequence - DisplaySequence - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_UserInputStage - UserInputStage - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_UserInputStage - UserInputStage - Behavioral/Inst_UserSequenceCombiner - UserSequenceCombiner - Behavioral</ClosedNode>
+         <ClosedNode>/UserButtonsTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|UserButtonsTest.vhd</ClosedNode>
+         <ClosedNode>/UserInputStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|UserInputStage.vhd</ClosedNode>
+         <ClosedNode>/UserInputStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|UserInputStage.vhd/Inst_UserSequenceCombiner - UserSequenceCombiner - Behavioral</ClosedNode>
+         <ClosedNode>/sequencer - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|sequencer.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>SimonTop - Behavioral (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000133000000020000000000000000000000000000000064ffffffff000000810000000000000002000001330000000100000000000000000000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>SimonTop - Behavioral (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/SimonTop.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000144000000010000000100000000000000000000000064ffffffff000000810000000000000001000001440000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002a2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001d60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ClkDisplayTest.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View RTL Schematic</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >11</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000133000000010000000100000000000000000000000064ffffffff000000810000000000000001000001330000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View RTL Schematic</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ClkDisplayTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|ClkDisplayTest.vhd</ClosedNode>
+         <ClosedNode>/CombinerTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|CombinerTest.vhd</ClosedNode>
+         <ClosedNode>/ComparatorTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|ComparatorTest.vhd</ClosedNode>
+         <ClosedNode>/DisplaySeqStageTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqStageTest.vhd</ClosedNode>
+         <ClosedNode>/DisplaySeqStageTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqStageTest.vhd/uut - DisplaySeqStage - Behavioral/Inst_DisplaySequence - DisplaySequence - Behavioral</ClosedNode>
+         <ClosedNode>/DisplaySeqTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqTest.vhd</ClosedNode>
+         <ClosedNode>/DisplaySeqTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|DisplaySeqTest.vhd/uut - DisplaySequence - Behavioral/Inst_sequencer - sequencer - Behavioral</ClosedNode>
+         <ClosedNode>/GameOverStateTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|GameOverStateTest.vhd</ClosedNode>
+         <ClosedNode>/SRTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SRTest.vhd</ClosedNode>
+         <ClosedNode>/SequenceCombinerTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SequenceCombinerTest.vhd</ClosedNode>
+         <ClosedNode>/SequencerTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SequencerTest.vhd</ClosedNode>
+         <ClosedNode>/SequencerTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SequencerTest.vhd/uut - sequencer - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_DisplaySeqStage - DisplaySeqStage - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_EndGameStage - EndGameStage - Behavioral</ClosedNode>
+         <ClosedNode>/SimonTop - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|SimonTop.vhd/Inst_UserInputStage - UserInputStage - Behavioral</ClosedNode>
+         <ClosedNode>/TopTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|TopTest.vhd/uut - SimonTop - Behavioral/Inst_UserInputStage - UserInputStage - Behavioral</ClosedNode>
+         <ClosedNode>/UserButtonsTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|UserButtonsTest.vhd</ClosedNode>
+         <ClosedNode>/UserInputStage - Behavioral C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|UserInputStage.vhd</ClosedNode>
+         <ClosedNode>/seqClkTest - behavior C:|Users|Emre Erdemoglu|Desktop|EEE102Project|SimonSaysV8|seqClkTest.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Inst_UserInputStage - UserInputStage - Behavioral (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/UserInputStage.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >17</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000197000000020000000000000000000000000000000064ffffffff000000810000000000000002000001970000000100000000000000000000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Inst_UserInputStage - UserInputStage - Behavioral (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/UserInputStage.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000144000000010000000100000000000000000000000064ffffffff000000810000000000000001000001440000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000144000000010000000100000000000000000000000064ffffffff000000810000000000000001000001440000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001210000012201000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>C:\Users\Emre Erdemoglu\Desktop\EEE102Project\SimonSaysV8\UserButtonInterface.vhd (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/UserButtonInterface.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000002b5000000020000000000000000000000000000000064ffffffff000000810000000000000002000002450000000100000000000000700000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>C:\Users\Emre Erdemoglu\Desktop\EEE102Project\SimonSaysV8\UserButtonInterface.vhd (C:/Users/Emre Erdemoglu/Desktop/EEE102Project/SimonSaysV8/UserButtonInterface.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000144000000010000000100000000000000000000000064ffffffff000000810000000000000001000001440000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>
