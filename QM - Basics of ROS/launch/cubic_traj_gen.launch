@@ -1,0 +1,19 @@
+<launch>
+
+  # Launch all the nodes.
+  <node pkg="AR_week4_test" name="generator" type="points_generator.py"/>
+  <node pkg="AR_week4_test" name="planner" type="cubic_traj_planner.py"/>
+  <node pkg="AR_week4_test" name="computer" type="compute_cubic_coeffs.py"/>
+  <node pkg="AR_week4_test" name="plotter" type="plot_cubic_traj.py"/>
+
+  # Launch RQT_PLOT:
+  <node name="rqt_plot" pkg="rqt_plot" type="rqt_plot"
+    args="/pos_traj/data /vel_traj/data /acc_traj/data"/>
+
+  # Launch ROS_GRAPH:
+  <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph"/>
+
+  # DEBUG RQT_GUI:
+  <!--node name="rqt_gui" pkg="rqt_gui" type="rqt_gui"/-->
+
+</launch>

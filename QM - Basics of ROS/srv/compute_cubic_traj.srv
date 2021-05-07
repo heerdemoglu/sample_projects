@@ -1,0 +1,8 @@
+# Request the parameters
+cubic_traj_params msg
+---
+# Return the coefficients for trajectories as responses.
+float64 a0
+float64 a1
+float64 a2
+float64 a3
