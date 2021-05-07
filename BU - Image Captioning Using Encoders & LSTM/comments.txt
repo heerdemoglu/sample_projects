@@ -1,0 +1,59 @@
+{6445.png}
+
+This prediction is very plausable as the output does not look like 
+ground truths and it is in line with what image contains. There exists one unknown term,
+which could be a word like 'heading'. Heading is relatively a unique word that may not
+frequently found in the captions corpus. Given the dataset had already done pre-processing
+for us, this word may have been removed from frequently used words dictionary. For this 
+particular example, LSTM model worked perfectly.
+_____________________________________
+{9474.png}
+
+In this image LSTM decoder was able to catch that there is a person in the image, however
+it was not able to understand the surfboard and the action of surfing. Unlike attention 
+encodings, the dimensionality of the encodings are very small. Therefore, in this image LSTM 
+decoder may not had to chance to extract, person, surfboard and surfing individually. However,
+note that the body shape of the person reflects both to surfing and skating therefore, the 
+decoder mistook the surfboard as skateboard. Maybe the this image become such a boundary case in
+the sense of small encoding vector such that LSTM model was not confident about which word to 
+select therefore many unknown labels started to train at the end of the predicted caption.
+_____________________________________
+{22196.png}
+
+This prediction is also very plausible as it was able to understand that there is a group
+of people who are standing. It mistook people who are on skateboard ramp and assumed they 
+are on a table. Given the shape of the ramp and the length of the encoding vector, it did a good
+job on captioning this image.
+_____________________________________
+{8335.png}
+
+In this image the decorder was able to identify a person and assumed that this person is not 
+sitting but standing, which is plausible. However it failed at identifying the object. Table is
+frequently used in the dataset. One reason could be that in many of the captions a table could 
+be present. In that case most hard to identify objects (which are less frequently seen on the 
+images and captions) are identified as tables. This could be due to the samples that the decoder
+encountered, could be due to small encoding vector or could be a combination of both.
+_____________________________________
+    
+{37463.png}
+
+This was a particularly challenging scene. The decoder misidentified all objects in the scene, but
+was able to distinguish the scenery. It correctly found out that there is food in the picture, but 
+mistook these food as pizza. If the encoding had more data to work with, more objects could be 
+detected by the decoder so that the prediction would be better. This applies for all images, their
+encodings and predicted captions. LSTM decoder mostly detects most prominent object in the image
+encoding and parse a sentence around that object. Given that the 1x2048 encoding used here is taken
+from linear combination of convolutional kernels, the information retained in these convolutional 
+kernels are greatly summarized. Using this encoding, it is very hard for the decoder to detect 
+other objects which are less visible in the images. Due to this reason it is harder for the network
+to construct good captions for these images.
+_____________________________________
+
+General note: Note that the model was only fed the starting sequence and it was 
+able to learn when to end the sequence. It does not print random sequences until max_length
+is reached. This points out that unknowns are not printed by random or mistake, the decoder
+is not able to make a good prediction about the scenery given its past word predictions and 
+decide to leave the predicted word as unknown.
+
+As a baseline model, this model performs extremely well given the computational costs of building
+the model as well as accuracy in predicting and describing the scenes in these images.
