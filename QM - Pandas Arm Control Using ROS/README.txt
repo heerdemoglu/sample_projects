@@ -2,7 +2,7 @@ Code developed by Hasan Emre Erdemoglu, 200377106
 Code developed as a part of Advanced Robotic Systems Course (QMUL-ECS7004P)
 
 Preliminary Assumptions & possible hotfixes
-1) This code segment assumes that you have ROS Melodic and MoveIt installed in your machine.
+1) This code segment assumes that you have ROS Melodic and MoveIt installed in your machine. (The screencast provided with this project uses ROS Melodic and Ubuntu 18.04.)
 2) If the .py files in the scripts folder are not executable, run following commands
    from the path where .py scripts are located (./ar_week10_test/scripts)
       * chmod +x square_size_generator.py
@@ -21,4 +21,4 @@ To run the package:
     * rosrun ar_week10_test move_panda_square.py
     * rosrun rqt_plot rqt_plot
 
-*In the screencast, building is omitted to give more time to the demonstration.*
+A sample execution can be found from [this]https://drive.google.com/file/d/1Diz3J90EEyqcM2jgk9R8m1E4WNIWtgWU/view?usp=sharing) link.
